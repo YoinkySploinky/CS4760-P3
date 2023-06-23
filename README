@@ -1,0 +1,8 @@
+Name: Trent Hollenkamp-Geragosian
+Project: Project 3
+Date: 3/14/2023
+
+
+Usage: ./oss [-h] -n proc -s simul -t timelimit -f logfile
+There are no default options
+
